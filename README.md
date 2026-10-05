@@ -115,6 +115,10 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
+**Author:** [shawn82gic](https://github.com/shawn82gic)
+
+---
+
 ## 中文
 
 一个很小的 Android 应用，把链接转发到你指定的 app。
