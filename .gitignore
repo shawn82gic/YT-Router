@@ -1,0 +1,14 @@
+# signing keys - NEVER commit
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+
+# build output
+out/
+bin/
+gen/
+*.apk
+src/yt/router/android/R.java
+test-sign.bat
